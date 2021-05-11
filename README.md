@@ -11,6 +11,10 @@
 - [To Do](#to-do)
 - [Contact](#contact)
 ## Demo
+
+https://user-images.githubusercontent.com/49152921/117791497-0418a900-b268-11eb-92d7-db3d3a3f20fd.mp4
+
+
 ## Screen Shots
 ## Overview
 Sign Language Classification using live video feed from the camera. This project is used to identify the english alphabets using corresponding sign languages. Where J and Z are the outliers which cannot be found using this project due to their gesture motions. Classical CNN model helps us to identify the alphabet from the sign, the model was build with the accuracy of 97%, the dataset used for the problem is [sign language mnist dataset from kaggle](https://www.kaggle.com/datamunge/sign-language-mnist).
