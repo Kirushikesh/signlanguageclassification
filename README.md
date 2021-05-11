@@ -27,9 +27,9 @@ pip install -r requirements.txt
 ```
 ## Run
 Before that you first get your kaggle api token, if you are new to this follow this [link](https://www.kaggle.com/docs/api) to get yours it will be useful for directly using kaggle dataset in colab.
-- Run ```SignLanguageModel.ipynb''' which will ask you to upload your kaggle.json file(api token) at the end you will get your cnn model as mycnn.h5 .
+- Run ```SignLanguageModel.ipynb``` which will ask you to upload your kaggle.json file(api token) at the end you will get your cnn model as mycnn.h5 .
 - Save the CNN model in the same folder of our prediction.py file.
-- Run ```prediction.py`` which uses the live feed from your camera and classify the sign languages. The identified alphabets will appear in another window.
+- Run ```prediction.py``` which uses the live feed from your camera and classify the sign languages. The identified alphabets will appear in another window.
 Make sure to use signs with in the Region of Interest.
 
 ## Technologies and Tools
