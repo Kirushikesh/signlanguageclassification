@@ -11,10 +11,6 @@
 - [To Do](#to-do)
 - [Contact](#contact)
 ## Demo
-
-https://user-images.githubusercontent.com/49152921/117806877-85783780-b278-11eb-90fe-6b4c6f45ec23.mp4
-
-
 ## Screen Shots
 
 ![image](https://user-images.githubusercontent.com/49152921/117792695-26f78d00-b269-11eb-9689-5cdfa8290f5f.png)
